@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": 1,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://www.thedailystar.net/sites/default/files/styles/big_1/public/feature/images/sh.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Slow left-arm orthodox",
+    "biddingPrice": 120000
+  },
+  {
+    "playerId": 2,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/tamim-iqbal-240142217-16x9.jpg?VersionId=QednuH_m4N7i4APDZJQ4Q9LDeuwHODlZ&size=690:388",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "None",
+    "biddingPrice": 100000
+  },
+  {
+    "playerId": 3,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "image": "https://e0.365dm.com/18/02/768x576/skysports-mushfiqur-rahman-bangladesh-portrait_4232696.jpg?20180216112112",
+    "role": "Wicketkeeper",
+    "battingType": "Right-handed",
+    "bowlingType": "None",
+    "biddingPrice": 95000
+  },
+  {
+    "playerId": 4,
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "image": "https://old.thefinancialexpress.com.bd/uploads/1663498489.jpg",
+    "role": "All-Rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Off-spin",
+    "biddingPrice": 85000
+  },
+  {
+    "playerId": 5,
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "image": "https://www.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/09/17/liton_das.jpg",
+    "role": "Wicketkeeper",
+    "battingType": "Right-handed",
+    "bowlingType": "None",
+    "biddingPrice": 80000
+  },
+  {
+    "playerId": 6,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2023/10/10/rasid-a583b2e663be5ee46946ba4044b595b9.jpg?jadewits_media_id=6394",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Leg-spin",
+    "biddingPrice": 130000
+  },
+  {
+    "playerId": 7,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i.cdn.newsbytesapp.com/images/l52320240328173656.jpeg",
+    "role": "All-Rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Fast",
+    "biddingPrice": 140000
+  },
+  {
+    "playerId": 8,
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/b091/live/3edc39e0-cd60-11f0-8adf-37126eb01b90.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "None",
+    "biddingPrice": 110000
+  },
+  {
+    "playerId": 9,
+    "name": "David Miller",
+    "country": "South Africa",
+    "image": "https://c.cricketpakistan.com.pk/images/posts/cover_1727439136FotoJet-(11).jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "None",
+    "biddingPrice": 105000
+  },
+  {
+    "playerId": 10,
+    "name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "image": "https://images.news18.com/ibnlive/uploads/2025/09/Mohammad-Nabi-is-on-the-cusp-of-creating-history-2025-09-a32028f8f215c31ec41c854aeeadb4a9.jpg",
+    "role": "All-Rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Off-spin",
+    "biddingPrice": 90000
+  },
+  {
+    "playerId": 11,
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "image": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2023/10/28/Taskin-2f7ae9cb94a43facc5fa185412eafa14.jpg?jadewits_media_id=7765",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Fast",
+    "biddingPrice": 75000
+  },
+  {
+    "playerId": 12,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "image": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5f0b/live/a94db830-e886-11f0-9f8d-bfce9943ae66.jpg",
+    "role": "Bowler",
+    "battingType": "Left-handed",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 95000
+  },
+  {
+    "playerId": 13,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://images.squarespace-cdn.com/content/v1/5d7fa27ac591f01062106a9f/d355ee04-655f-4f37-99bb-744d97a6bd1a/Virat+Kohli.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "None",
+    "biddingPrice": 150000
+  },
+  {
+    "playerId": 14,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "https://api.bdcrictime.com/rohit-sharma-reveals-he-considered-retirement-21_12_2025.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "None",
+    "biddingPrice": 145000
+  },
+  {
+    "playerId": 15,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://www.mumbaiindians.com/static-assets/waf-images/89/73/73/16-9/1920-1080/EpoKMHyBvr.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Fast",
+    "biddingPrice": 140000
+  }
+]
